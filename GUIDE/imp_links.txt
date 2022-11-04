@@ -5,3 +5,5 @@ https://www.geeksforgeeks.org/python-gui-tkinter/#:~:text=text%20and%20widgets.-
 https://www.codegrepper.com/search.php?answer_removed=1&q=submit%20button%20with%20enter%20key%20tkinter%20python
 
 Color codes - https://www.colorhexa.com/57adff
+
+image bg remover:- https://www.remove.bg/
